@@ -1,4 +1,3 @@
-          //EMISOR//
 #include <SPI.h>
 #include <mcp2515.h>
 #include <math.h>
@@ -55,7 +54,7 @@ void loop() {
 
   delay(1000);
 }
-                    //RECEPTOR//
+
 #include <SPI.h>
 #include <mcp2515.h>
 #include <Wire.h>
@@ -157,4 +156,4 @@ void loop() {
       digitalWrite(RELAY_PIN, (tempC >= TEMP_ALERT) ? LOW : HIGH);
     }
   }
-}                 
+} 
