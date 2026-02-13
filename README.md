@@ -2,7 +2,7 @@
 
 ## 📋 Resumen del Proyecto
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/08aefe22-49eb-4fab-af71-c04eb1b10d52" width="600">
+  <img src="https://github.com/user-attachments/assets/08aefe22-49eb-4fab-af71-c04eb1b10d52" width="400">
 </p>
 
 El proyecto consiste en el diseño e implementación de un sistema electrónico de control automático de ventilación para motores, basado en comunicación CAN, con el objetivo de monitorear y regular la temperatura de manera eficiente. El sistema emplea un sensor termistor NTC para medir la temperatura, un Arduino transmisor que procesa los datos y los envía mediante un módulo MCP2515 a través del bus CAN, y un Arduino receptor que interpreta la información recibida. Este último muestra la temperatura en tiempo real en una pantalla OLED y la compara con un valor umbral programado. Cuando la medición alcanza los 30 °C, se activa automáticamente un relé de 5 V que enciende un ventilador, simulando el funcionamiento de un electroventilador automotriz. El desarrollo demuestra la integración efectiva de sensores, comunicación digital y actuadores, logrando un sistema confiable, preciso y de bajo costo aplicable a soluciones de control térmico en el ámbito automotriz.
