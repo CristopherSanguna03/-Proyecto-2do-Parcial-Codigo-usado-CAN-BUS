@@ -24,3 +24,7 @@ El proyecto consiste en el diseño e implementación de un sistema electrónico 
 
 ## 🎥 Video Explicativo Proyecto 2do Parcial
 https://www.youtube.com/watch?v=A4fW21p1sl4
+## 📓 Informe Proyecto 
+
+[PROYECTO SEGUNDO PARCIAL_MEJIA_SANGUÑA_TOAPAXI.pdf](https://github.com/user-attachments/files/25279216/PROYECTO.SEGUNDO.PARCIAL_MEJIA_SANGUNA_TOAPAXI.pdf)
+
