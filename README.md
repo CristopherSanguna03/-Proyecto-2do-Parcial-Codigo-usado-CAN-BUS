@@ -1,7 +1,11 @@
 # 🚗 Proyecto 2do Parcial Codigo usado CAN BUS
 
 ## 📋 Resumen del Proyecto
-El proyecto consiste en el diseño e implementación de un sistema electrónico de control automático de ventilación para un motor, basado en comunicación CAN, el cual permite monitorear y regular la temperatura de forma eficiente. El sistema utiliza un termistor NTC como sensor térmico, cuya señal es procesada por un Arduino encargado de calcular la temperatura y transmitirla mediante un módulo MCP2515 a través del bus CAN hacia un segundo nodo receptor.En el nodo receptor, otro microcontrolador interpreta los datos recibidos, muestra la temperatura en tiempo real en una pantalla OLED y compara el valor con un umbral establecido. Cuando la temperatura alcanza los 30 °C, el sistema activa automáticamente un relé de 5 V que enciende el electroventilador, simulando el funcionamiento de un sistema de enfriamiento automotriz real. Este proceso ocurre de manera inmediata gracias a la estabilidad y velocidad de la comunicación CAN. 
+El diagrama muestra un sistema de control automático de temperatura para ventilación de motor basado en comunicación CAN. Está formado por dos placas Arduino conectadas mediante módulos MCP2515 que permiten el intercambio de datos entre un nodo transmisor y uno receptor. El nodo transmisor mide la temperatura utilizando un sensor termistor NTC, procesa la señal y envía el valor obtenido a través del bus CAN.
+
+El nodo receptor recibe la información en tiempo real, la muestra en una pantalla OLED para su monitoreo y la compara con un valor límite programado. Cuando la temperatura alcanza los 30 °C, el sistema activa automáticamente un relé de 5 V que enciende un ventilador, simulando el funcionamiento de un electroventilador automotriz.
+
+Este proyecto evidencia la integración de sensores, comunicación digital y actuadores para lograr un control térmico eficiente, confiable y de bajo costo, demostrando principios fundamentales de la electrónica automotriz aplicada.
 
 
 ## 📸 Diagrama
