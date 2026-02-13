@@ -18,7 +18,7 @@ El proyecto consiste en el diseño e implementación de un sistema electrónico 
 * **Materiales:** Resistencia 10k / Ventilador 5V / Modulo Rele 5v / PROTOBOARD / Cables Dupont Macho Hembra/ Termistor NTC
 ## 📸 Realizacion del Proyecto
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3ac356c1-b7b8-4821-aabc-f5bea80ebdaf" alt="EVIDENCIA PROYECTO" width="450">
+  <img src="https://github.com/user-attachments/assets/3ac356c1-b7b8-4821-aabc-f5bea80ebdaf" alt="EVIDENCIA PROYECTO" width="500">
 </p>
 
 ## 🎥 Video Explicativo Proyecto 2do Parcial
