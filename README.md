@@ -17,7 +17,9 @@ El proyecto consiste en el diseño e implementación de un sistema electrónico 
 * **Hardware:** Arduino / MCP2515/ Pantalla Oled 128x64 I2c Display Lcd 0.96
 * **Materiales:** Resistencia 10k / Ventilador 5V / Modulo Rele 5v / PROTOBOARD / Cables Dupont Macho Hembra/ Termistor NTC
 ## 📸 Realizacion del Proyecto
-![EVIDENCIA PROYECTO](https://github.com/user-attachments/assets/3ac356c1-b7b8-4821-aabc-f5bea80ebdaf)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3ac356c1-b7b8-4821-aabc-f5bea80ebdaf" alt="EVIDENCIA PROYECTO" width="300">
+</p>
 
 ## 🎥 Video Explicativo Proyecto 2do Parcial
 https://www.youtube.com/watch?v=A4fW21p1sl4
