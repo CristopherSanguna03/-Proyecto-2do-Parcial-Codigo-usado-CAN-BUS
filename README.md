@@ -6,6 +6,7 @@ El proyecto consiste en el diseño e implementación de un sistema electrónico 
 
 ## 📸 Evidencia y Diagramas
 <img width="1024" height="1024" alt="DIAGARAMA PROYECTO" src="https://github.com/user-attachments/assets/960d0e9b-3907-45c8-bc28-215fe93313cd" />
+![WhatsApp Image 2026-02-09 at 11 33 53](https://github.com/user-attachments/assets/d94130f1-cc81-4273-a894-d2910386e476)
 
 
 
